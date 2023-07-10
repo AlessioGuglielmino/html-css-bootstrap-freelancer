@@ -13,7 +13,7 @@ header {
 .debug {
   border: 2px solid red;
 }
-
+/* NAV */
 nav {
   height: 100px;
 }
@@ -23,7 +23,12 @@ a {
   margin: 0 10px;
   text-decoration: none;
 }
+/* JUMBO */
 
 .jumbo {
+  background-color: #1abc9c;
+}
+/* ABOUT */
+.about {
   background-color: #1abc9c;
 }

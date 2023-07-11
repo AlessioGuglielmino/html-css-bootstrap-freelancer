@@ -68,3 +68,11 @@ footer .location {
 #green {
   color: #1abc9c;
 }
+
+.prova {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 30px;
+  aspect-ratio: 1;
+}

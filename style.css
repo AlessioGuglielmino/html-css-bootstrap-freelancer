@@ -23,10 +23,26 @@ a {
   margin: 0 10px;
   text-decoration: none;
 }
-/* JUMBO */
 
 .jumbo {
   background-color: #1abc9c;
+}
+.stella {
+  width: 100%;
+}
+.stella > * {
+  margin: 0 10px;
+}
+.line {
+  width: 15%;
+  height: 3px;
+  background-color: white;
+}
+/* PORTFOLIO */
+
+.nero {
+  background-color: black;
+  color: black;
 }
 /* ABOUT */
 .about {
@@ -35,12 +51,20 @@ a {
 hr {
   color: black;
 }
+/* CONTACT ME */
+.send {
+  background-color: #1abc9c;
+  color: white;
+}
 
 /* FOOTER */
 footer {
   background-color: #2c3e50;
 }
 footer .location {
-  height: 200px;
   background-color: #3a546d;
+}
+
+#green {
+  color: #1abc9c;
 }
